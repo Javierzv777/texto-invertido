@@ -1,0 +1,19 @@
+
+.noPalindromo{
+    color: rgb(187, 17, 17);
+}
+
+.palindromo{
+    color: rgb(3, 87, 0);
+}
+.container_imputs{
+    padding-top: 4rem !important;
+    width: 80% !important;
+    margin: auto;
+    padding-bottom: 4rem;
+}
+
+.container h3{
+    margin-left: 3vmax;
+    text-align: left;
+}

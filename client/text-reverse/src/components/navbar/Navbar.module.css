@@ -1,0 +1,10 @@
+.Searchbar{
+    margin:auto;
+    text-align: center !important;
+}
+.button{
+    background-color: rgb(17, 189, 174) !important;
+}
+.botton:hover {
+    background-color: rgb(72, 72, 209);
+}
