@@ -11,7 +11,7 @@ const inverText = (req, res) =>{
         let lowRegStr = response.toLowerCase().replace(re, '');
         var reverseStr = lowRegStr.split('').reverse().join('');
         
-        res.send({
+        return res.send({
             palindromo: reverseStr === lowRegStr,
             text: response
         })
@@ -21,3 +21,4 @@ const inverText = (req, res) =>{
 module.exports = {
     inverText
 }
+
