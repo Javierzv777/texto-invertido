@@ -1,4 +1,4 @@
-import { REVERSE_TEXT } from "./ations";
+import { REVERSE_TEXT } from "./actions";
 
 const initialState = {
     textReversed: []

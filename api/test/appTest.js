@@ -177,12 +177,6 @@ describe('Devuelve true cuando el texto es pal√≠ndromo y false cuando no es pal√
             });
   
     });
-  
-    
-  
-   
-    
-    
   });
 
 

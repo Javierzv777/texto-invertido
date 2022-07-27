@@ -4,7 +4,7 @@ import Form from 'react-bootstrap/Form';
 import NavStyle from './Navbar.module.css';
 import Navbar from 'react-bootstrap/Navbar';
 import { useDispatch } from 'react-redux';
-import { reverseText } from '../../redux/ations';
+import { reverseText } from '../../redux/actions';
 import { useState } from 'react';
 
 function NavbarBootstrap() {
